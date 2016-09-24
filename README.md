@@ -2,4 +2,10 @@
 
 A REST API to control a Chrome/Chromium browser using the remote debugging facility.
 
-start Chrome/Chromium with 
+start Chrome
+
+google-chrome --remote-debugging-port=9991
+
+start the express server with node index.js 
+
+
